@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 
 class Customer(models.Model):
-    first_name = models.CharField(max_length=200)
+    Friend_Code = models.CharField(max_length=200)
 
     def __str__(self):
-        return self.first_name
+        return self.Friend_Code

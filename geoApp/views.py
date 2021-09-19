@@ -27,7 +27,7 @@ def home(request):
         zoom_start=2)
 
     a=1
-    if request.method == 'POST' and a==1:
+    if request.method == 'POST':
         print(request.POST)
         cities = pd.read_csv(os.path.join(shp_dir, 'cities1.csv'))
         m = folium.Map(
@@ -39,6 +39,7 @@ def home(request):
                 tooltip=city['name']
             ).add_to(m)
     elif request.method == 'POST' and a==2:
+        print(request.POST)
         cities = pd.read_csv(os.path.join(shp_dir, 'cities2.csv'))
         m = folium.Map(
             location=[22.28967, 114.171144327727],
