@@ -1,7 +1,7 @@
 # Spots-WebApp
  A website created within 48 hours in Canada's largest Hackathon (Hack the North)- giving users a personal experience to share and explore favourite spots!
 
-![Logo] https://github.com/tonywongthw/projects/blob/main/screenshots/Screenshot%202022-07-13%20115930.jpg
+![Logo] (https://github.com/tonywongthw/projects/blob/main/screenshots/Screenshot%202022-07-13%20115930.jpg)
 
 # Inspiration
 
