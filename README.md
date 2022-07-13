@@ -1,4 +1,4 @@
-# Spots-WebApp
+# Spots!
  A website created within 48 hours in Canada's largest Hackathon (Hack the North)- giving users a personal experience to share and explore favourite spots!
 
 ![Logo](https://j.gifs.com/Pj9yxA.gif)
@@ -37,15 +37,15 @@ As a prototype, the website was created to illlustrate how users can key in ID o
 
 The following steps will run the web applicatio on local host using cached data, without the need to deploy the application to cloud
 
-Clone the Repository
+1. Clone the Repository
 
-Set Up Backend Flask Server
+2. Set Up Backend Flask Server
 
-The website will run successfully!
+The website will then run successfully!
 
 # Remarks
 
-Further developments on the following are welcome
+Further developments on the following are welcomed
 
 1. Code Refactoring
 2. Setting up database
