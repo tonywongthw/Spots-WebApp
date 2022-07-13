@@ -1,5 +1,5 @@
 # Spots!
- A web application created within 48 hours in Canada's largest Hackathon (Hack the North)- giving users a personal experience to share and explore favourite spots!
+ :airplane: A web application created within 48 hours in Canada's largest Hackathon (Hack the North)- giving users a personal experience to share and explore favourite spots!
 
 ![Logo](https://j.gifs.com/Pj9yxA.gif)
 
